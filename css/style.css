@@ -1,0 +1,188 @@
+/*
+	Author Name: Ataul Azam Chowdhury;
+	MAil Address: ataulazam@gmail.com;
+	GPL license :3.4.1;
+*/
+
+
+/*
+=====Index====
+	1.Header
+	2.HOME
+	3.HOW IT WORKS
+	4.DISCOVER A PROJECT
+	5.BLOG
+	6.FIND OUT MORE
+
+*/
+
+
+/*Global css*/
+
+
+
+/*theme css*/
+
+
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+h3{
+	font-size: 33px;
+}
+h4{
+	font-size: 18px;
+	color: #515151;
+}
+
+
+.top-one{
+	background: url('../img/hero-img.png') no-repeat center top;
+	background-size: cover;
+	padding: 150px 0px;
+
+}
+
+.top-one-content h1{
+	margin: 10px 0px;
+	color: #fff;
+
+}
+
+.top-one-content h2{
+	margin: 10px 0px;
+	color: #fff;
+
+}
+
+.btn1{
+	margin-top: 35px;
+	padding: 18px 20px;
+	background: #99c50a;
+	border-style: none;
+}
+
+.middle-one{
+	padding: 100px 0px 130px 0px;
+}
+
+.img-tag{
+	margin-bottom: 40px;
+}
+
+
+.middle-2{
+
+}
+.middle1{
+	background-color: #e2f8ff;
+	padding: 50px 0;
+}
+.middle2{
+	background-color: #f5f9eb;
+	padding: 50px 0;
+}
+
+.middle-btn-one{
+	background-color: #26a6d1;
+	padding: 10px 20px;
+	margin-top: 20px;
+	border-style: none;
+}
+.middle-btn-two{
+	background-color: #add136;
+	padding: 10px 20px;
+	margin-top: 20px;
+	border-style: none;
+}
+
+
+.featured-project{
+	padding-bottom: 40px;
+}
+.featured-title{
+	padding: 70px 0px;
+}
+.cstm-btn-four{
+	background: transparent;
+	color: #add136;
+	padding: 12px 16px;
+	border: 1px solid #add136;
+	margin-top: 25px;
+	border-radius: 15px;
+}
+
+.muted-text{
+	padding-left: 170px;
+}
+.card-underline{
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+	border-bottom: 1px solid #bfbfbf;
+}
+
+.featured-content{
+	padding-bottom: 70px 0;
+}
+.card-one{
+	background-color: #f9f9f9;
+}
+.card-image{
+	width: 100%;
+	position: relative;
+}
+.child{
+	background-color: #26a6d1;
+	border-style: none;
+	position: absolute;
+	top: 38%;
+    left: 55%;
+}
+.card-body h3{
+	font-size: 20px;
+	font-weight: 800;
+}
+.card-para{
+	padding-bottom: 40px;
+}
+.details{
+	padding-top:15px;
+	text-align: right;
+}
+.fa.fa-caret-right{
+	color: green;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+
+.branding{
+	padding-top: 60px;
+}
+
+.footer{
+	padding:30px 0 15px 0;
+	text-align: center;
+}
+@media (min-width: 320px) and (max-width: 500px) {
+body{
+	text-align: center;
+}
+
+
+}
+@media (min-width: 501px) and (max-width: 768) {
+body{
+	text-align: center;
+}
+
+
+}
+@media (min-width: 769px) and (max-width: 1200px) {
+
+
+
+}
+@media (min-width: 1200px) { ... }
